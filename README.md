@@ -1,7 +1,7 @@
 # S&P Data Fetcher
 Fetches data about S&amp;P 500 companies and writes them to a CSV file. This was created for a Computer Science class project. Expect this to take around 30 minutes to complete with a free Finnhub account.
 
-# Instruction
+# Instructions
 1. `git clone https://github.com/JackoCoolio/sandp-data-fetcher.git`
 2. `pip install -r requirements.txt`
 3. Edit `config.yaml`
